@@ -1,5 +1,5 @@
 #include "WebSocketServer.h"
-#include "protobuf/can_frame.pb.h"
+#include "src/protobuf/can_frame.pb.h"
 #include <QDateTime>
 #include <QWebSocket>
 #include <QWebSocketServer>

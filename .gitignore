@@ -1,1 +1,4 @@
 /DBCParser/build
+/DBCParserServer/build
+/DBCParser/.qtcreator
+/DBCParserServer/.qtcreator
