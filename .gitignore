@@ -2,3 +2,5 @@
 /DBCParserServer/build
 /DBCParser/.qtcreator
 /DBCParserServer/.qtcreator
+/DBCParser/*.user
+/DBCParserServer/*.user
